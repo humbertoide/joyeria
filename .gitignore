@@ -1,0 +1,18 @@
+# Ignorar archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignorar carpetas generadas por el IDE
+bin/
+target/
+out/
+.idea/
+.settings/
+.classpath
+.project
+
+# Ignorar archivos de configuración local
+*.iml
+*.log
